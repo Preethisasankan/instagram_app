@@ -30,7 +30,7 @@ class instagram {
 	 */
 	private $_redirectUrl;
 	/**
-	 * The short life Acess Token.
+	 * The short life code.
 	 *
 	 * https://developers.facebook.com/docs/instagram-basic-display-api/overview#instagram-user-access-tokens
 	 * https://api.instagram.com/oauth/authorize?client_id=608297303151714&redirect_uri=http://localhost/wordpress/&scope=user_profile,user_media&response_type=code
@@ -39,20 +39,13 @@ class instagram {
 	 */
 	private $_code;
 	 /**
-	  * The short life Acess Token.
-	  *
-	  * https://developers.facebook.com/docs/instagram-basic-display-api/overview#instagram-user-access-tokens
-	  * https://api.instagram.com/oauth/authorize?client_id=608297303151714&redirect_uri=http://localhost/wordpress/&scope=user_profile,user_media&response_type=code
+	  * The short life Access Token.
 	  *
 	  * @var string
 	  */
 	private $_accessToken;
 	/**
 	 * The User ID of the Instagram
-	 *
-	 * https://developers.facebook.com/docs/instagram-basic-display-api/overview#instagram-user-access-tokens
-	 * https://api.instagram.com/oauth/authorize?client_id=608297303151714&redirect_uri=http://localhost/wordpress/&scope=user_profile,user_media&response_type=code
-	 *
 	 * @var string
 	 */
 	protected $_user_id;
