@@ -2,10 +2,11 @@ Instagram API
 Before You Start :
 https://developers.facebook.com/docs/instagram-basic-display-api/getting-started
 
-Step 1: Create a Facebook App
-Step 2: Configure Instagram Basic Display
-Step 3: Add an Instagram Test User 
-Step 4: Authenticate the Test User (code)
+Step 1: Create a Facebook App.
+
+Step 2: Configure Instagram Basic Display.
+Step 3: Add an Instagram Test User .
+Step 4: Authenticate the Test User (code).
 
 Requirements
 ----------------------
